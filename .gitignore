@@ -1,1 +1,25 @@
+# MacOS
 .DS_Store
+*/.idea/*
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+env/
+*.egg-info/
+.installed.cfg
+*.egg
